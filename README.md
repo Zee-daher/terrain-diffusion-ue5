@@ -8,6 +8,10 @@ Academic project — Tishreen University, Faculty of Informatics Engineering (AI
 
 ---
 
+🚀 **[Try the live demo](https://terrain-diffusion-ue5-ambnhjjttyh3mpgpmn5xsk.streamlit.app/)** — generate a new heightmap right in your browser, no setup required.
+
+---
+
 ## Results
 
 | Single patch (DDPM, 256×256) | Large seamless map (MultiDiffusion, 512×512) |
